@@ -1,0 +1,78 @@
+zbar/zbar_libzbar_la-refcnt.lo: zbar/refcnt.c zbar/refcnt.h \
+ include/config.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/assert.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/features.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/uClibc_config.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/sys/cdefs.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/pthread.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/endian.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/endian.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/byteswap.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/byteswap.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/byteswap-common.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/sched.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/types.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/wordsize.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stddef.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/typesizes.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/pthreadtypes.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/sgidefs.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/time.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/sched.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/time.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/uClibc_clk_tck.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/signal.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/sigset.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/setjmp.h
+
+zbar/refcnt.h:
+
+include/config.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/assert.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/features.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/uClibc_config.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/sys/cdefs.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/pthread.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/endian.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/endian.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/byteswap.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/byteswap.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/byteswap-common.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/sched.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/types.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/wordsize.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stddef.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/typesizes.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/pthreadtypes.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/sgidefs.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/time.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/sched.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/time.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/uClibc_clk_tck.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/signal.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/sigset.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/setjmp.h:

@@ -1,0 +1,49 @@
+zbar/qrcode/zbar_libzbar_la-isaac.lo: zbar/qrcode/isaac.c \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/float.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/math.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/features.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/uClibc_config.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/sys/cdefs.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/huge_val.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/huge_valf.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/huge_vall.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/inf.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/nan.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/mathdef.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/sgidefs.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/mathcalls.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/string.h \
+ /home/eko/Schreibtisch/Main/toolchain/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stddef.h \
+ zbar/qrcode/isaac.h
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/float.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/math.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/features.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/uClibc_config.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/sys/cdefs.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/huge_val.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/huge_valf.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/huge_vall.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/inf.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/nan.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/mathdef.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/sgidefs.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/bits/mathcalls.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../mips-linux-gnu/libc/uclibc/usr/include/string.h:
+
+/home/eko/Schreibtisch/Main/toolchain/bin/../lib/gcc/mips-linux-gnu/4.7.2/include/stddef.h:
+
+zbar/qrcode/isaac.h:
